@@ -11,7 +11,13 @@
 
 
 This monumental painting is one of Eakins’ masterpieces and serves as a prime example of his interest in the intersection of art and science. The painting captures the intensity and complexity of the scene, focusing on Dr. Gross as he explains the procedure. Eakins’ use of light emphasizes Gross as the central figure, highlighting his intellectual prowess and the significance of medical advancements.
-Instruments scattered across the table reflect the medical practices of the time.Instruments scattered across the table reflect the medical practices of the time.
+
 
 ---
 
+### The Agnew Clinic
+
+.ve-media wc:The_Agnew_Clinic_-_Thomas_Eakins.jpg
+
+
+Similar to *The Gross Clinic*, *The Agnew Clinic* presents Dr. David Hayes Agnew leading a surgical procedure, but this time, the scene is more modernized, reflecting advancements in medical practices. Unlike the earlier work, the surgeons wear white gowns, emphasizing the evolution of hygiene and surgical techniques. Eakins demonstrates his ability to document progress in medical history through subtle details such as clothing and surgical methods. The painting balances a focus on the technical procedure with the social atmosphere of the clinic, depicting women nurses and an audience that includes both men and women, signaling shifts in gender roles within medical settings.
