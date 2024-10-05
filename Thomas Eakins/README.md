@@ -1,7 +1,9 @@
 
 # Thomas Eakins: Realism and the Human Form
 
-==Thomas Eakins=={Q214905} was a pioneering American artist renowned for his devotion to realism and his exceptional portrayal of the human form. He believed in studying anatomy meticulously and often incorporated scientific accuracy into his works. Eakins is best known for his focus on the human body, sports, and everyday life, themes that he approached with a dedication to truth and precision. His works also reflect an interest in the relationship between art, science, and the physical world, making him a prominent figure in the American Realist movement. Below are five notable paintings by Eakins that exemplify these themes.
+==**Thomas Eakins**=={Q214905} was a pioneering American artist renowned for his devotion to realism and his exceptional portrayal of the human form. He believed in studying anatomy meticulously and often incorporated scientific accuracy into his works. Eakins is best known for his focus on the human body, sports, and everyday life, themes that he approached with a dedication to truth and precision. His works also reflect an interest in the relationship between art, science, and the physical world, making him a prominent figure in the American Realist movement. Below are five notable paintings by Eakins that exemplify these themes.
+
+
 
 ## The Gross Clinic
 
