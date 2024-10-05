@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "63794a49"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The participants are wearing white coats instead of the black frock coats.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/b804de885cb0045856d5dd2eb38179080f64d62d9a13ade8bdedb177e0dc256f",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2335.88525390625,2136.483642578125,691.328857421875,828.074951171875"
+      },
+      "id": "b804de88"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a3a2fbc3"
   }
 ]
