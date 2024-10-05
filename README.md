@@ -17,3 +17,11 @@ In *Idle Hours*, Chase masterfully captures a sense of calm and relaxation. The 
 .ve-media wc:William_Merritt_Chase_-_Open_Air_Breakfast_-_Google_Art_Project.jpg
 
 Similarly, *The Open Air Breakfast* showcases a carefully arranged scene that blends casual relaxation with artistic arrangement. The painting includes Chase’s sister in a Dutch-style hat, his wife with a Chinese cap, and his sister-in-law in a hammock, alongside a Russian wolfhound. Chase’s Brooklyn yard, depicted with a Japanese screen and potted tropical plant, reflects his eclectic tastes and sophisticated collection. Through this scene, Chase integrates leisurely domestic life with cultural elements, celebrating both relaxation and artistic refinement.
+
+
+.ve-media wc:Thomas_Eakins,_American_-_Portrait_of_Dr._Samuel_D._Gross_(The_Gross_Clinic)_-_Google_Art_Project.jpg width=50% right
+
+This monumental painting is one of Eakins’ masterpieces, depicting Dr. Samuel D. Gross, a renowned surgeon, performing a surgery in front of medical students at Jefferson Medical College. The painting captures the intensity and complexity of the scene, focusing on the figure of Dr. Gross as he explains the procedure. Eakins’ use of light emphasizes Gross as the central figure, highlighting his intellectual prowess and the significance of medical advancements.
+
+
+
