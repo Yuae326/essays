@@ -1,7 +1,7 @@
 
 # Thomas Eakins: Realism and the Human Form
 
-==**Thomas Eakins**=={Q214905} was a pioneering American artist renowned for his devotion to realism and his exceptional portrayal of the human form. He believed in studying anatomy meticulously and often incorporated scientific accuracy into his works. Eakins is best known for his focus on the human body, sports, and everyday life, themes that he approached with a dedication to truth and precision. His works also reflect an interest in the relationship between art, science, and the physical world, making him a prominent figure in the American Realist movement. Below are five notable paintings by Eakins that exemplify these themes.
+==**Thomas Eakins**=={Q214905} was a pioneering American artist renowned for his devotion to realism and his exceptional portrayal of the human form. He believed in studying anatomy meticulously and often incorporated scientific accuracy into his works. Eakins is best known for his focus on the human body, sports, and everyday life, themes that he approached with a dedication to truth and precision. His works also reflect an interest in the relationship between art, science, and the physical world, making him a prominent figure in the American Realist movement. Below are two notable paintings by Eakins that exemplify these themes.
 
 
 
@@ -20,4 +20,4 @@ This monumental painting is one of Eakins’ masterpieces and serves as a prime 
 .ve-media wc:The_Agnew_Clinic_-_Thomas_Eakins.jpg
 
 
-Similar to *The Gross Clinic*, *The Agnew Clinic* presents Dr. David Hayes Agnew leading a surgical procedure, but this time, the scene is more modernized, reflecting advancements in medical practices. Unlike the earlier work, the surgeons wear white gowns, emphasizing the evolution of hygiene and surgical techniques. Eakins demonstrates his ability to document progress in medical history through subtle details such as clothing and surgical methods. The painting balances a focus on the technical procedure with the social atmosphere of the clinic, depicting women nurses and an audience that includes both men and women, signaling shifts in gender roles within medical settings.
+Similar to *The Gross Clinic*, *The Agnew Clinic* presents Dr. David Hayes Agnew leading a surgical procedure, but this time, the scene is more modernized, reflecting advancements in medical practices. Unlike the earlier work, the surgeons wear white gowns, emphasizing the evolution of hygiene and surgical techniques. Eakins demonstrates his ability to document progress in medical history through subtle details such as clothing and surgical methods.
