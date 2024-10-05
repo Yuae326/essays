@@ -11,7 +11,7 @@
 
 
 This monumental painting is one of Eakins’ masterpieces and serves as a prime example of his interest in the intersection of art and science. The painting captures the intensity and complexity of the scene, focusing on Dr. Gross as he explains the procedure. Eakins’ use of light emphasizes Gross as the central figure, highlighting his intellectual prowess and the significance of medical advancements.
-
+Instruments scattered across the table reflect the medical practices of the time.Instruments scattered across the table reflect the medical practices of the time.
 
 ---
 
