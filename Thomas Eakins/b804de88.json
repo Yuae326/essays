@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "3d604c94"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This painting includes female nurses assisting in the surgery, indicating the evolving role of women in the medical profession.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/b804de885cb0045856d5dd2eb38179080f64d62d9a13ade8bdedb177e0dc256f",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3722.34130859375,1186.8563232421875,546.9853515625,869.8585205078125"
+      },
+      "id": "b804de88"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "63794a49"
   }
 ]
