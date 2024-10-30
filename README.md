@@ -15,7 +15,11 @@ Similarly, *The Open Air Breakfast* showcases a carefully arranged scene that bl
 
 ---
 ## The life and art of William Merritt Chase
+<.ve-media https://iiif.archivelab.org/iiif/lifeartofwilliam00roof/manifest.json>
 
+* Due to an issue with the .ve-media not displaying in the viewer, it has been placed in parentheses.
+
+The Life and Art of William Merritt Chase, written by Katharine Metcalf Roof in 1917, is a valuable scholarly work that covers not only Chase’s artwork but also his life.
 
 ---
 
