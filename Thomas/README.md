@@ -30,10 +30,13 @@ This painting depicts six men swimming nude in a lake and is regarded as one of 
 ==The Dying Gaul=={Q848790} and ==Scène d'été=={Q7439713} may have been works that inspired him.
 
 
+
 ####Some Interesting Articles About Thomas Eakins
 
 [The realism of Thomas Eakins](https://newcriterion.com/article/the-realism-of-thomas-eakins/)
+
 [“America’s Rembrandt”: The Life of Thomas Eakins as Seen in America’s Historical Newspapers](https://www.readex.com/blog/americas-rembrandt-life-thomas-eakins-seen-americas-historical-newspapers)
+
 [Art of Thomas Eakins](https://philadelphiaencyclopedia.org/essays/art-of-thomas-eakins/)
 
 
