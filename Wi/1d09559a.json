@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "28c7f2c7"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "She is wearing a white satin gown, similar to the attire of the woman in the Studio Interior, which was likely a prop from Chase's studio.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/1d09559ae649ceaaad0a6979630939ffe911d2ac8f9d37e1ce8c0bc7d13bb24f",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:463.4177551269531,1169.6915283203125,232.40505981445312,233.16455078125"
+      },
+      "id": "1d09559a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6769a9c6"
   }
 ]
