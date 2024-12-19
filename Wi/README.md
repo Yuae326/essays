@@ -36,7 +36,7 @@ Similarly, ==The Open Air Breakfast=={Q28797266} showcases a carefully arranged 
 
 # Teaching and Mentorship
 
-Chase’s contributions to American art extended far beyond his paintings. As an educator, he played a pivotal role in nurturing a new generation of artists. He had an extensive teaching career at institutions such as the Art Students League, the New York School of Art, the Pennsylvania Academy of the Fine Arts, and his own summer school on Long Island. His teaching style emphasized individuality and experimentation, encouraging students to learn from the techniques of old masters while developing their own unique voices. Despite their vastly different artistic styles, modern art pioneers like Georgia O’Keeffe, Edward Hopper, and George Bellows were all shaped by his guidance, sharing the common bond of having studied under him.
+Chase’s contributions to American art extended far beyond his paintings. As an educator, he played a pivotal role in nurturing a new generation of artists. He had an extensive teaching career at institutions such as the Art Students League, the New York School of Art, the Pennsylvania Academy of the Fine Arts, and his own summer school on Long Island. His teaching style emphasized individuality and experimentation, encouraging students to learn from the techniques of old masters while developing their own unique voices. Despite their vastly different artistic styles, modern art pioneers like Georgia O’Keeffe, Edward Hopper, and George Bellows were all shaped by his guidance, sharing the common bond of having studied under him. [^2]
 
 
 # Additional Insights into Chase's Work
@@ -50,5 +50,7 @@ For a deeper dive into William Merritt Chase's masterpieces, this video provides
 ---
 
 
- [^1]: Gallati, Barbara Dayer, and William Merritt Chase. *William Merritt Chase / Barbara Dayer Gallati.* New York: Harry N. Abrams in association with the National Museum of American Art, Smithsonian Institution, 1995.
+[^1]: Gallati, Barbara Dayer, and William Merritt Chase. *William Merritt Chase / Barbara Dayer Gallati.* New York: Harry N. Abrams in association with the National Museum of American Art, Smithsonian Institution, 1995.
+[^2]: 
+  Hirshler, Erica E, William Merritt Chase, Boston Museum of Fine Arts, and Boston Museum of Fine Arts. *William Merritt Chase / Erica E. Hirshler.* Boston, Mass: MFA Publications, Museum of Fine Arts, 2016.
 
