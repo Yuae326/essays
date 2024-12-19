@@ -8,7 +8,7 @@
 .ve-media wc:William_Merritt_Chase_by_James_W._Porter_(1).jpg left
 .ve-media wc:William_Merritt_Chase.jpg right
 
-William Merritt Chase was born on November 1, 1849, in Indiana. He was the eldest of six children born to local businessman David H. Chase and his wife. From an early age, he showed an interest in art and studied under local artists Barton S. Hays and ==Jacob Cox=={Q6118493}. Later, he continued his education at the National Academy of Design in New York and the Royal Academy of Fine Arts in Munich, learning from and working alongside various artists.
+William Merritt Chase was born on November 1, 1849, in Indiana. He was the eldest of six children born to local businessman David H. Chase and his wife. From an early age, he showed an interest in art and studied under local artists ==Barton S. Hays=={Q4865682} and ==Jacob Cox=={Q6118493}. Later, he continued his education at the National Academy of Design in New York and the Royal Academy of Fine Arts in Munich, learning from and working alongside various artists.
 
 His time at the Royal Academy of Fine Arts was particularly influential in shaping his style. The academy emphasized a dark tonal palette, dramatic lighting, and precise realism, elements that are clearly evident in Chase’s early works. This European influence later merged with his exposure to Impressionism, forming the foundation of his distinctive artistic vision.
 
@@ -19,7 +19,7 @@ After returning to the United States in the late 1870s, Chase quickly gained rec
 
 .ve-media wc:13.50_SL1-General_Use.jpg
 
-***In the Studio*** is one of Chase's most renowned works from this period. The painting depicts his studio, and the woman featured in it is likely one of Chase's models or students.[^2] This artwork provides a glimpse into the opulence of his studio at the time, showcasing his ability to capture texture, light, and the complexity of the surroundings.
+==In the Studio=={Q19963628} is one of Chase's most renowned works from this period. The painting depicts his studio, and the woman featured in it is likely one of Chase's models or students. This artwork provides a glimpse into the opulence of his studio at the time, showcasing his ability to capture texture, light, and the complexity of the surroundings.
 
 
 ### Landscape Paintings and American Impressionism
@@ -29,14 +29,14 @@ While Chase was initially known for his studio-based works, his landscapes cemen
 .ve-media wc:Chase_William_Merritt_Idle_Hours_1894.jpg left
 .ve-media wc:William_Merritt_Chase_-_Open_Air_Breakfast_-_Google_Art_Project.jpg right
 
-In ***Idle Hours***, one of William Merritt Chase's most iconic landscapes, the artist masterfully captures a sense of calm and relaxation. The painting portrays his wife, sister, and two daughters seated on the dunes at eastern Long Island, gazing out at the serene ocean. Their relaxed pose, combined with the soft colors of the beach and water, creates an atmosphere of tranquility. The gentle light enhances the peacefulness of the scene, offering a contrast to the urbanization and industrialization of the time. Rather than depicting activity, Chase emphasizes leisure, making the sea a symbol of retreat and peace, a place where his family could escape the pressures of modern life.[^3]
+In ==Idle Hours=={Q17038842}, one of William Merritt Chase's most iconic landscapes, the artist masterfully captures a sense of calm and relaxation. The painting portrays his wife, sister, and two daughters seated on the dunes at eastern Long Island, gazing out at the serene ocean. Their relaxed pose, combined with the soft colors of the beach and water, creates an atmosphere of tranquility. The gentle light enhances the peacefulness of the scene, offering a contrast to the urbanization and industrialization of the time. Rather than depicting activity, Chase emphasizes leisure, making the sea a symbol of retreat and peace, a place where his family could escape the pressures of modern life.
 
-Similarly, ***The Open Air Breakfast*** showcases a carefully arranged scene that blends casual relaxation with artistic arrangement. The painting includes Chase’s sister in a Dutch-style hat, his wife with a Chinese cap, and his sister-in-law in a hammock, alongside a Russian wolfhound. Chase’s Brooklyn yard, depicted with a Japanese screen and potted tropical plant, reflects his eclectic tastes and sophisticated collection. Through this scene, Chase integrates leisurely domestic life with cultural elements, celebrating both relaxation and artistic refinement.
+Similarly, ==The Open Air Breakfast=={Q28797266} showcases a carefully arranged scene that blends casual relaxation with artistic arrangement. The painting includes Chase’s sister in a Dutch-style hat, his wife with a Chinese cap, and his sister-in-law in a hammock, alongside a Russian wolfhound. Chase’s Brooklyn yard, depicted with a Japanese screen and potted tropical plant, reflects his eclectic tastes and sophisticated collection. Through this scene, Chase integrates leisurely domestic life with cultural elements, celebrating both relaxation and artistic refinement.
 
 
 ### Teaching and Mentorship
 
-Chase’s contributions to American art extended far beyond his paintings. As an educator, he played a pivotal role in nurturing a new generation of artists. He had an extensive teaching career at institutions such as the Art Students League, the New York School of Art, the Pennsylvania Academy of the Fine Arts, and his own summer school on Long Island.[^4] His teaching style emphasized individuality and experimentation, encouraging students to learn from the techniques of old masters while developing their own unique voices. Despite their vastly different artistic styles, modern art pioneers like Georgia O’Keeffe, Edward Hopper, and George Bellows were all shaped by his guidance, sharing the common bond of having studied under him.[^5]
+Chase’s contributions to American art extended far beyond his paintings. As an educator, he played a pivotal role in nurturing a new generation of artists. He had an extensive teaching career at institutions such as the Art Students League, the New York School of Art, the Pennsylvania Academy of the Fine Arts, and his own summer school on Long Island. His teaching style emphasized individuality and experimentation, encouraging students to learn from the techniques of old masters while developing their own unique voices. Despite their vastly different artistic styles, modern art pioneers like Georgia O’Keeffe, Edward Hopper, and George Bellows were all shaped by his guidance, sharing the common bond of having studied under him.
 
 
 #### Additional Insights into Chase's Work
