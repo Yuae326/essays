@@ -2,12 +2,13 @@
 
 ==William Merritt Chase=={Q265820} was one of the leading figures of American Impressionism, renowned for his refined style and his ability to blend European traditions with a distinctly American sensibility. As a versatile artist, Chase excelled in portraiture, still life, and landscape painting, leaving an indelible mark on the art world.
 
+
 # Early Life and Artistic Training
 
 .ve-media wc:William_Merritt_Chase_by_James_W._Porter_(1).jpg left
 .ve-media wc:William_Merritt_Chase.jpg right
 
-William Merritt Chase was born on November 1, 1849, in Indiana. He was the eldest of six children born to local businessman David H. Chase and his wife. From an early age, he showed an interest in art and studied under local artists Barton S. Hays and Jacob Cox.[^1] Later, he continued his education at the National Academy of Design in New York and the Royal Academy of Fine Arts in Munich, learning from and working alongside various artists.
+William Merritt Chase was born on November 1, 1849, in Indiana. He was the eldest of six children born to local businessman David H. Chase and his wife. From an early age, he showed an interest in art and studied under local artists Barton S. Hays and ==Jacob Cox=={Q6118493}. Later, he continued his education at the National Academy of Design in New York and the Royal Academy of Fine Arts in Munich, learning from and working alongside various artists.
 
 His time at the Royal Academy of Fine Arts was particularly influential in shaping his style. The academy emphasized a dark tonal palette, dramatic lighting, and precise realism, elements that are clearly evident in Chase’s early works. This European influence later merged with his exposure to Impressionism, forming the foundation of his distinctive artistic vision.
 
@@ -47,8 +48,3 @@ For a deeper dive into William Merritt Chase's masterpieces, this video provides
 
 
 ---
-[^1]: Wikipedia contributors. (2024, May 23). *William Merritt Chase*. Wikipedia. https://en.wikipedia.org/wiki/William_Merritt_Chase
-[^2]: Kiely, A. (2024, August 23). *Masterpiece Story: In the Studio by William Merritt Chase*. DailyArt Magazine. https://www.dailyartmagazine.com/in-the-studio-by-william-merritt-chase/
-[^3]: Museum of Fine Arts, Boston. (2016, December 30). *William Merritt Chase and the Commonplace* [Video]. YouTube. https://www.youtube.com/watch?v=1REB2ELhJwQ
-[^4]: Smithsonian American Art Museum. (n.d.). *William Merritt Chase*. https://americanart.si.edu/artist/william-merritt-chase-840
-[^5]: Stamberg, S. (2016, June 28). Meet William Merritt Chase, The Man Who Taught America’s Masters. *NPR*. https://www.npr.org/2016/06/28/483231216/meet-william-merritt-chase-the-man-who-taught-americas-masters
