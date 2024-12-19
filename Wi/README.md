@@ -34,12 +34,12 @@ In ==Idle Hours=={Q17038842}, one of William Merritt Chase's most iconic landsca
 Similarly, ==The Open Air Breakfast=={Q28797266} showcases a carefully arranged scene that blends casual relaxation with artistic arrangement. The painting includes Chase’s sister in a Dutch-style hat, his wife with a Chinese cap, and his sister-in-law in a hammock, alongside a Russian wolfhound. Chase’s Brooklyn yard, depicted with a Japanese screen and potted tropical plant, reflects his eclectic tastes and sophisticated collection. Through this scene, Chase integrates leisurely domestic life with cultural elements, celebrating both relaxation and artistic refinement.
 
 
-### Teaching and Mentorship
+#### Teaching and Mentorship
 
 Chase’s contributions to American art extended far beyond his paintings. As an educator, he played a pivotal role in nurturing a new generation of artists. He had an extensive teaching career at institutions such as the Art Students League, the New York School of Art, the Pennsylvania Academy of the Fine Arts, and his own summer school on Long Island. His teaching style emphasized individuality and experimentation, encouraging students to learn from the techniques of old masters while developing their own unique voices. Despite their vastly different artistic styles, modern art pioneers like Georgia O’Keeffe, Edward Hopper, and George Bellows were all shaped by his guidance, sharing the common bond of having studied under him.
 
 
-#### Additional Insights into Chase's Work
+##### Additional Insights into Chase's Work
 
 .ve-media https://www.youtube.com/watch?v=HYzzibt4uO0
 
