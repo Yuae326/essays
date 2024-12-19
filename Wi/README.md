@@ -19,7 +19,7 @@ After returning to the United States in the late 1870s, Chase quickly gained rec
 
 .ve-media wc:13.50_SL1-General_Use.jpg
 
-==In the Studio=={Q19963628} is one of Chase's most renowned works from this period. The painting depicts his studio, and the woman featured in it is likely one of Chase's models or students. This artwork provides a glimpse into the opulence of his studio at the time, showcasing his ability to capture texture, light, and the complexity of the surroundings.
+==In the Studio=={Q19963628} is one of Chase's most renowned works from this period. This painting depicts his studio, and as Alexandra Kiely mentions in [Daily Art Magazine](https://www.dailyartmagazine.com/in-the-studio-by-william-merritt-chase/), the woman featured in it is likely one of Chase's models or students. This artwork provides a glimpse into the opulence of his studio at the time, showcasing his ability to capture texture, light, and the complexity of the surroundings.
 
 
 # Landscape Paintings and American Impressionism
@@ -29,7 +29,7 @@ While Chase was initially known for his studio-based works, his landscapes cemen
 .ve-media wc:Chase_William_Merritt_Idle_Hours_1894.jpg left
 .ve-media wc:William_Merritt_Chase_-_Open_Air_Breakfast_-_Google_Art_Project.jpg right
 
-In ==Idle Hours=={Q17038842}, one of William Merritt Chase's most iconic landscapes, the artist masterfully captures a sense of calm and relaxation. The painting portrays his wife, sister, and two daughters seated on the dunes at eastern Long Island, gazing out at the serene ocean. Their relaxed pose, combined with the soft colors of the beach and water, creates an atmosphere of tranquility. The gentle light enhances the peacefulness of the scene, offering a contrast to the urbanization and industrialization of the time. Rather than depicting activity, Chase emphasizes leisure, making the sea a symbol of retreat and peace, a place where his family could escape the pressures of modern life.
+In ==Idle Hours=={Q17038842}, one of William Merritt Chase's most iconic landscapes, the artist masterfully captures a sense of calm and relaxation. The painting portrays his wife, sister, and two daughters seated on the dunes at eastern Long Island, gazing out at the serene ocean. Their relaxed pose, combined with the soft colors of the beach and water, creates an atmosphere of tranquility. This painting came to define his Impressionist technique and its influence on American Impressionist painting. [^3]
 
 Similarly, ==The Open Air Breakfast=={Q28797266} showcases a carefully arranged scene that blends casual relaxation with artistic arrangement. The painting includes Chase’s sister in a Dutch-style hat, his wife with a Chinese cap, and his sister-in-law in a hammock, alongside a Russian wolfhound. Chase’s Brooklyn yard, depicted with a Japanese screen and potted tropical plant, reflects his eclectic tastes and sophisticated collection. Through this scene, Chase integrates leisurely domestic life with cultural elements, celebrating both relaxation and artistic refinement.
 
@@ -51,6 +51,5 @@ For a deeper dive into William Merritt Chase's masterpieces, this video provides
 
 
 [^1]: Gallati, Barbara Dayer, and William Merritt Chase. *William Merritt Chase / Barbara Dayer Gallati.* New York: Harry N. Abrams in association with the National Museum of American Art, Smithsonian Institution, 1995.
-[^2]: 
-  Hirshler, Erica E, William Merritt Chase, Boston Museum of Fine Arts, and Boston Museum of Fine Arts. *William Merritt Chase / Erica E. Hirshler.* Boston, Mass: MFA Publications, Museum of Fine Arts, 2016.
-
+[^2]: Hirshler, Erica E, William Merritt Chase, Boston Museum of Fine Arts, and Boston Museum of Fine Arts. *William Merritt Chase / Erica E. Hirshler.* Boston, Mass: MFA Publications, Museum of Fine Arts, 2016.
+[^3]: Schaffner, Cynthia V. A., and Lori Zabar. “The Founding and Design  of William Merritt Chase’s  Shinnecock Hills Summer School  of Art and the Art Village.” Winterthur Portfolio 44, no. 4 (2010): 303–50. https://doi.org/10.1086/657165.
