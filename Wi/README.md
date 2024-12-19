@@ -13,7 +13,7 @@ William Merritt Chase was born on November 1, 1849, in Indiana. He was the eldes
 His time at the Royal Academy of Fine Arts was particularly influential in shaping his style. The academy emphasized a dark tonal palette, dramatic lighting, and precise realism, elements that are clearly evident in Chase’s early works. This European influence later merged with his exposure to Impressionism, forming the foundation of his distinctive artistic vision.
 
 
-## Chase’s Rise in the American Art Scene
+# Chase’s Rise in the American Art Scene
 
 After returning to the United States in the late 1870s, Chase quickly gained recognition as an artist of exceptional skill. His studio in New York’s Tenth Street Studio Building became an iconic space, often featured in his paintings. It was both a creative workspace and a gathering place for prominent artists, critics, and patrons.
 
@@ -22,7 +22,7 @@ After returning to the United States in the late 1870s, Chase quickly gained rec
 ==In the Studio=={Q19963628} is one of Chase's most renowned works from this period. The painting depicts his studio, and the woman featured in it is likely one of Chase's models or students. This artwork provides a glimpse into the opulence of his studio at the time, showcasing his ability to capture texture, light, and the complexity of the surroundings.
 
 
-### Landscape Paintings and American Impressionism
+# Landscape Paintings and American Impressionism
 
 While Chase was initially known for his studio-based works, his landscapes cemented his role as a pioneer of American Impressionism. Inspired by plein-air painting, he began to explore the interplay of natural light and vivid color in outdoor settings.
 
@@ -34,12 +34,12 @@ In ==Idle Hours=={Q17038842}, one of William Merritt Chase's most iconic landsca
 Similarly, ==The Open Air Breakfast=={Q28797266} showcases a carefully arranged scene that blends casual relaxation with artistic arrangement. The painting includes Chase’s sister in a Dutch-style hat, his wife with a Chinese cap, and his sister-in-law in a hammock, alongside a Russian wolfhound. Chase’s Brooklyn yard, depicted with a Japanese screen and potted tropical plant, reflects his eclectic tastes and sophisticated collection. Through this scene, Chase integrates leisurely domestic life with cultural elements, celebrating both relaxation and artistic refinement.
 
 
-#### Teaching and Mentorship
+# Teaching and Mentorship
 
 Chase’s contributions to American art extended far beyond his paintings. As an educator, he played a pivotal role in nurturing a new generation of artists. He had an extensive teaching career at institutions such as the Art Students League, the New York School of Art, the Pennsylvania Academy of the Fine Arts, and his own summer school on Long Island. His teaching style emphasized individuality and experimentation, encouraging students to learn from the techniques of old masters while developing their own unique voices. Despite their vastly different artistic styles, modern art pioneers like Georgia O’Keeffe, Edward Hopper, and George Bellows were all shaped by his guidance, sharing the common bond of having studied under him.
 
 
-##### Additional Insights into Chase's Work
+# Additional Insights into Chase's Work
 
 .ve-media https://www.youtube.com/watch?v=HYzzibt4uO0
 
