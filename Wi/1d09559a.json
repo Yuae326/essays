@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "6769a9c6"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Chase's collection of \"bric-a-brac\"",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/1d09559ae649ceaaad0a6979630939ffe911d2ac8f9d37e1ce8c0bc7d13bb24f",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:216.3507080078125,409.12353515625,313.76971435546875,141.97662353515625"
+      },
+      "id": "1d09559a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "410af06f"
   }
 ]
