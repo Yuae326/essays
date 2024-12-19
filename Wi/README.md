@@ -19,8 +19,11 @@ After returning to the United States in the late 1870s, Chase quickly gained rec
 
 .ve-media wc:13.50_SL1-General_Use.jpg
 
-==In the Studio=={Q19963628} is one of Chase's most renowned works from this period. This painting depicts his studio, and as Alexandra Kiely mentions in [Daily Art Magazine](https://www.dailyartmagazine.com/in-the-studio-by-william-merritt-chase/), the woman featured in it is likely one of Chase's models or students. This artwork provides a glimpse into the opulence of his studio at the time, showcasing his ability to capture texture, light, and the complexity of the surroundings.
+==Studio Interior=={Q19963628} is one of Chase's most renowned works from this period. This painting depicts his studio, and as Alexandra Kiely mentions in [Daily Art Magazine](https://www.dailyartmagazine.com/in-the-studio-by-william-merritt-chase/), the woman featured in it is likely one of Chase's models or students. This artwork provides a glimpse into the opulence of his studio at the time, showcasing his ability to capture texture, light, and the complexity of the surroundings.
 
+.ve-media wc:William_Merritt_Chase_-_In_the_Studio_(c.1884).jpg
+
+Another work by William set in his studio, **In the Studio**, depicts a portion of the west wall of Chase's "inner" studio, which had once served as a group exhibition space during the time Hudson River School artists dominated the Tenth Street Studio Building. In this painting, a young woman is seated, holding a Japanese woodblock print, surrounded by Chase's collection of "bric-a-brac"—an assortment of objects gathered from around the world. As an avid collector, Chase spared no expense in acquiring items, frequently traveling to Europe to purchase numerous pieces and sending them back to New York. As evidence of his extensive and eclectic collecting practices, when Chase was forced to auction off the contents of his studio in 1896, the items were categorized into 25 distinct groups. [^4]
 
 # Landscape Paintings and American Impressionism
 
@@ -53,3 +56,4 @@ For a deeper dive into William Merritt Chase's masterpieces, this video provides
 [^1]: Gallati, Barbara Dayer, and William Merritt Chase. *William Merritt Chase / Barbara Dayer Gallati.* New York: Harry N. Abrams in association with the National Museum of American Art, Smithsonian Institution, 1995.
 [^2]: Hirshler, Erica E, William Merritt Chase, Boston Museum of Fine Arts, and Boston Museum of Fine Arts. *William Merritt Chase / Erica E. Hirshler.* Boston, Mass: MFA Publications, Museum of Fine Arts, 2016.
 [^3]: Schaffner, Cynthia V. A., and Lori Zabar. “The Founding and Design  of William Merritt Chase’s  Shinnecock Hills Summer School  of Art and the Art Village.” Winterthur Portfolio 44, no. 4 (2010): 303–50. https://doi.org/10.1086/657165.
+[^4]: “In the Studio,” n.d. https://reynoldahouse.emuseum.com/objects/58/in-the-studio.
