@@ -23,11 +23,9 @@ After returning to the United States in the late 1870s, Chase quickly gained rec
 
 .ve-media wc:William_Merritt_Chase_-_In_the_Studio_(c.1884).jpg
 
-Another work by William set in his studio, **In the Studio**, depicts a portion of the west wall of Chase's "inner" studio, which had once served as a group exhibition space during the time Hudson River School artists dominated the Tenth Street Studio Building. In this painting, a young woman is seated, holding a Japanese woodblock print, surrounded by Chase's collection of "bric-a-brac"—an assortment of objects gathered from around the world. As an avid collector, Chase spared no expense in acquiring items, frequently traveling to Europe to purchase numerous pieces and sending them back to New York. As evidence of his extensive and eclectic collecting practices, when Chase was forced to auction off the contents of his studio in 1896, the items were categorized into 25 distinct groups. [^4]
+Another work by William set in his studio, **In the Studio**, depicts a portion of the west wall of Chase's "inner" studio, which had once served as a group exhibition space during the time Hudson River School artists dominated the Tenth Street Studio Building. In this painting, a young woman is seated, holding a Japanese woodblock print, surrounded by Chase's collection of "bric-a-brac"—an assortment of objects gathered from around the world. The woman in this painting looks directly at the viewer, as if interrupted while browsing a Japanese woodblock print. The interruption does not seem unwelcome, as her gaze implicitly invites the viewer into the enchanting atmosphere of the studio. [^4]
 
 # Landscape Paintings and American Impressionism
-
-While Chase was initially known for his studio-based works, his landscapes cemented his role as a pioneer of American Impressionism. Inspired by plein-air painting, he began to explore the interplay of natural light and vivid color in outdoor settings.
 
 .ve-media wc:Chase_William_Merritt_Idle_Hours_1894.jpg left
 .ve-media wc:William_Merritt_Chase_-_Open_Air_Breakfast_-_Google_Art_Project.jpg right
